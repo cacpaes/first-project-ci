@@ -49,6 +49,12 @@ body {
     border-bottom: 1px solid #3a3a3a;
 }
 
+/* image */
+
+#cover-text, #cover-text h2 {
+    color: #fff;
+}
+
 #grazi-image {
     height: 600px;
     width: 100%;
