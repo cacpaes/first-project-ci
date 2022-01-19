@@ -64,9 +64,8 @@ body {
 }
 
 #grazi-image {
-    height: 80%;
-    width: 80%;
-    background: url('../image/grazi-image5.jpg.jpeg') no-repeat center center;
+    height: 600px;
+    background: url('../image/grazi-image3.jpg') no-repeat center center;
 }
 
 
@@ -78,48 +77,41 @@ body {
 
 #about p {
     text-align: left; 
-    text-indent: 115px;
+    text-indent: 15px;
     padding: 0 100px 20px;
 }
 
 /* cbt */
 
 #cbt {
-    height: 600px;
     text-align: center;
     
 }
 
-#left {
-    padding-top: 30px;
-    width: 49%;
-    float: left;
+#cbt p {
+    text-align: left; 
+    text-indent: 15px;
+    padding: 0 100px 20px;
+}
+
+aside {
+    background-color: blue;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.281);
     
 }
 
-#right {
+aside h1{
     text-align: center;
-    padding-top: 30px;
-    width: 49%;
-    float: right;
-    
 }
 
-.left-heading {
-    text-align: center;
-    width: 60%;
-    float: right;
-    line-height: 20px;
-    clear: both;
-    margin-bottom: 50px;
+aside li {
+    text-align: left;
+    text-indent: 15px;
+    padding: 0 100px 20px;
 }
-
-.right-heading {
-    width: 60%;
-    line-height: 20px;
-    clear: both;
-    margin-bottom: 50px;
-}
+ 
 
 /* Footer */
 footer {
