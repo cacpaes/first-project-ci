@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0 1px;
     border: none;
+    font-size: 100%;
 }
 
 :root {
@@ -38,6 +39,8 @@ header > h1 {
     background-color: #DAF6FF;
     color:#007A85;
     text-align: left;
+    padding-bottom: 20px;
+    font-size: 2em;
 }
 
 /* Style for Nav - menu */
