@@ -84,14 +84,6 @@ header > h1 {
 
 /* image */
 
-#hero-outer {
-    height: 600px;
-    width: 100%;
-    overflow: hidden;
-
-    position: relative;
-}
-
 #grazi-image {
     height: 730px;
     background: url('../image/grazi-image3.jpg') no-repeat center center;
