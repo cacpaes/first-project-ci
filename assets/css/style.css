@@ -2,7 +2,7 @@
 
 * {
     margin: 0;
-    padding: 0;
+    padding: 0 1px;
     border: none;
 }
 
@@ -65,7 +65,7 @@ header > h1 {
 }
 
 #menu a {
-    color: rgb(77, 171, 233);
+    color: #DAF6FF;
     padding: 10px;
     border-radius: 5px;
     text-decoration: none;
@@ -74,8 +74,8 @@ header > h1 {
 }
 
 #menu a:hover {
-    background-color: rgb(84, 226, 203);
-    color: rgb(50, 105, 122);
+    background-color: #55B1BB;
+    color: #04494F;
     border-radius: 7%;
 }
 
@@ -140,7 +140,7 @@ a.externo::after {
 
 /*list*/
 aside {
-    background-color: rgb(219, 248, 246);
+    background-color: #DAF6FF;
     padding: 10px;
     border-radius: 10px;
     box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.281);
@@ -181,7 +181,7 @@ aside p {
 
 #contact h2 {
     text-align: center;
-    color:rgb(48, 141, 196);
+    color:#007A85;
     margin-bottom:20px;
 } 
 
@@ -211,18 +211,18 @@ aside p {
 }
 
 .join-button:hover{
-    background-color:rgb(159, 207, 207);
+    background-color:#DAF6FF;
     color:#4b909c;
 }  
 
 #contact textarea {
-    background: transparent;
-     color:rgb(11, 68, 80);
-     width:100%;
+    background-color: white;
+     color:black;
      height:80px;
      margin:5px 0 20px 0;
      border:1px solid white;
      border-radius:2px;
+     
 }
  
 
@@ -255,7 +255,7 @@ footer li {
 }
 
 .social-links i:hover {
-    color: rgb(65, 238, 200);
+    color: #55B1BB;
     text-shadow: none;
 }
 
