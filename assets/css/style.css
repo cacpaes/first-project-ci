@@ -8,11 +8,13 @@
 }
 
 :root {
-    --cor1:#55B1BB;
-    --cor2:#DAF6FF;
-    --cor3:#64BEBF;
-    --cor4:#007A85;
-    --cor5:#04494F; 
+    --cor0:#000000;
+    --cor1:#ffff;
+    --cor2:#55B1BB;
+    --cor3:#DAF6FF;
+    --cor4:#64BEBF;
+    --cor5:#007A85;
+    --cor6:#04494F; 
 }
 
 
@@ -96,7 +98,8 @@ header > h1 {
     padding-top: 20px;
 }
 
-#about h1 {
+#about h2 {
+    font-size: 1.5em;
     padding: 20px;
 }
 
@@ -115,7 +118,8 @@ header > h1 {
     text-align: center;   
 }
 
-#cbt h1 {
+#cbt h2 {
+    font-size: 1.5em;
     padding: 20px;
 }
 
@@ -142,9 +146,9 @@ aside {
     
 }
 
-aside h1{
+aside h2{
     text-align: center;
-    font-size: 1.2em;
+    font-size: 1.5em;
     margin-bottom: 20px;
 }
 
@@ -152,7 +156,7 @@ aside li {
     text-align: left;
     text-indent: 15px;
     padding: 0 100px 20px;
-    font-size: 1.2em;
+    font-size: 1em;
     margin-bottom: 20px;
 }
 
@@ -174,6 +178,7 @@ aside p {
     
 
 #contact h2 {
+    font-size: 1.3em;
     text-align: center;
     color:#007A85;
     margin-bottom:20px;
