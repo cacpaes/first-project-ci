@@ -97,7 +97,7 @@ header > h1 {
     
     #menu {
         height: 50px;
-        width: 400px;
+        width: 100%;
         justify-content: left;
         font-size: 75%;
     }
@@ -151,12 +151,12 @@ header > h1 {
 #about p {
     text-align: left; 
     text-indent: 15px;
-    padding: 0 100px 20px;
     font-size: 1.2em;
     margin-bottom: 20px;
     min-width: 320px;
     max-width: 1920;
     margin: auto;
+    width: 100%;
     
 }
 
@@ -164,22 +164,23 @@ header > h1 {
 
 #cbt {
     text-align: center;   
+    padding:5px 0;
 }
 
 #cbt h2 {
     font-size: 1.5em;
-    padding: 20px;
+    padding: 20px 0;
 }
 
 #cbt p {
     text-align: left; 
     text-indent: 15px;
-    padding: 0 100px 20px;
     font-size: 1.2em;
     margin-bottom: 20px;
     min-width: 320px;
     max-width: 1920;
     margin: auto;
+    width: 100%;
 
    
 }
@@ -191,9 +192,10 @@ a.externo::after {
 /*list*/
 aside {
     background-color: #DAF6FF;
-    padding: 10px;
+    padding: 5px 0;
     border-radius: 10px;
-    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.281);
+    box-shadow: 3px 3px 8px black;
+    width: 100%;
     
     
 }
@@ -202,6 +204,7 @@ aside h2{
     text-align: center;
     font-size: 1.5em;
     margin-bottom: 20px;
+    padding-top: 5px 0;
    
 }
 
@@ -214,7 +217,7 @@ aside li {
 
 aside p {
     text-align: center;
-    font-size: 1.2em;
+    font-size: 1.5em;
     margin-bottom: 20px;
     min-width: 320px;
     max-width: 1920;
@@ -233,10 +236,11 @@ aside p {
     
 
 #contact h2 {
-    font-size: 1.3em;
+    font-size: 1.6em;
     text-align: center;
     color:#007A85;
     margin-bottom:20px;
+    padding-top: 20px;
 } 
 
 .text-input {
@@ -256,7 +260,7 @@ aside p {
 .join-button {
     margin-top:20px;
     border-radius:2px;
-    padding:15px 32px 15px 32px;
+    padding:15px 32px ;
     text-align:center;
     font-size:100%;
     background-color:#4b909c;
@@ -276,6 +280,8 @@ aside p {
      margin:5px 0 20px 0;
      border:1px solid;
      border-radius:2px;
+     padding: 20px 0;
+     font-size: 1em;
      
 }
  
