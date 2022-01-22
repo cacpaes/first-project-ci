@@ -25,10 +25,11 @@ body {
     font-weight: 400;
     background-color: #64BEBF;
     font-size: 1em;
-    min-width: 320px;
-    max-width: 1800;
-    margin: auto;
     width: 100%;
+    min-width: 320px;
+    max-width: 1200;
+    margin: auto;
+  
     
    
 }
@@ -69,9 +70,10 @@ header > h1 {
 
 #menu li {
     list-style: none;
-    padding: 1.5px;
     margin: 6px;
     border-radius: 7%;
+    height: 23px;
+    padding-top: 5px;
     
     
 }
@@ -105,10 +107,35 @@ header > h1 {
 
 #grazi-image {
     height: 730px;
-    background: url('../image/grazi-image3.jpg') no-repeat center center;
+    background: url('../image/grazi-image1020.jpg.jpeg') no-repeat center center;
+    background-color: white;
+    min-width: 320px;
+    max-width: 1920;
+    margin: auto;
 }
 
+@media screen and (max-width: 983px){
+    #grazi-image {
+        height: 500px;
+        background:url('../image/grazi-image980.jpg.jpeg') no-repeat center center;
+    }
+    
+}
+ 
+@media screen and (max-width: 380px){
+    #grazi-image {
+        height: 600px;
+        background:url('../image/grazi.site380.jpeg') no-repeat center center;
+    }
+    
+}
 
+@media screen and (max-width: 320px){
+    #grazi-image {
+        height: 500px;
+        background:url('../image/grazi.site320.jpeg') no-repeat center center;
+    }
+}
 
 /*about me*/
 #about {
