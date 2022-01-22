@@ -22,13 +22,13 @@
 
 body {
     font-family: Arial, Verdana, Helvetica, sans-serif;
-    font-weight: 500;
+    font-weight: 400;
     background-color: #64BEBF;
-    font-size: 1.2em;
-    margin-bottom: 20px;
+    font-size: 1em;
     min-width: 320px;
-    max-width: 1920;
+    max-width: 1800;
     margin: auto;
+    width: 100%;
     
    
 }
@@ -37,7 +37,7 @@ body a {
     text-decoration: none;
     color:#55B1BB;
     background-color: #007A85;
-    padding: 2px 6px;
+    
 }
 
 
@@ -45,14 +45,17 @@ header > h1 {
     background-color: #DAF6FF;
     color:#007A85;
     text-align: left;
-    padding-bottom: 20px;
+    padding-bottom: 15px;
     font-size: 2em;
 }
 
 /* Style for Nav - menu */
 #menu {
+    margin-top: 0px;
     padding: 0;
-    width: 100%;
+    display: flex;
+    justify-content: right;
+   
     
 }
 
@@ -66,8 +69,8 @@ header > h1 {
 
 #menu li {
     list-style: none;
-    padding: 3px;
-    margin: 10px;
+    padding: 1.5px;
+    margin: 6px;
     border-radius: 7%;
     
     
@@ -91,8 +94,10 @@ header > h1 {
 @media screen and (max-width: 442px) {
     
     #menu {
-        float: none;
-        text-align: center;
+        height: 50px;
+        width: 400px;
+        justify-content: left;
+        font-size: 75%;
     }
 }
 
@@ -176,7 +181,6 @@ aside h2{
 aside li {
     text-align: left;
     text-indent: 15px;
-    padding: 0 100px 20px;
     font-size: 1em;
     margin-bottom: 20px;
 }
