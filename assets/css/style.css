@@ -110,7 +110,7 @@ header > h1 {
     background: url('../image/grazi-image1020.jpg.jpeg') no-repeat center center;
     background-color: white;
     min-width: 320px;
-    max-width: 1920;
+    max-width: 1920px;
     margin: auto;
 }
 
@@ -127,7 +127,8 @@ header > h1 {
         height: 500px;
         background:url('../image/grazi-image960.jpg') no-repeat center center;
     }
- 
+}
+
 @media screen and (max-width: 480px){
     #grazi-image {
         height: 600px;
@@ -160,7 +161,7 @@ header > h1 {
     font-size: 1.2em;
     margin-bottom: 20px;
     min-width: 320px;
-    max-width: 1920;
+    max-width: 1920px;
     margin: auto;
     width: 100%;
     
@@ -193,7 +194,7 @@ header > h1 {
     font-size: 1.2em;
     margin-bottom: 20px;
     min-width: 320px;
-    max-width: 1920;
+    max-width: 1920px;
     margin: auto;
     width: 100%;
 
@@ -220,7 +221,7 @@ aside h2{
     text-align: center;
     font-size: 1.5em;
     margin-bottom: 20px;
-    padding-top: 5px 0;
+    padding-top: 5px ;
    
 }
 
@@ -331,5 +332,4 @@ footer li {
 
 .social-links i:hover {
     color: #55B1BB;
-    text-shadow: none;
 }
