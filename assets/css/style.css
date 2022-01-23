@@ -122,7 +122,7 @@ header > h1 {
     
 }
  
-@media screen and (max-width: 380px){
+@media screen and (max-width: 480px){
     #grazi-image {
         height: 600px;
         background:url('../image/grazi.site380.jpeg') no-repeat center center;
