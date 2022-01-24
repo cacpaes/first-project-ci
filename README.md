@@ -39,6 +39,8 @@ The website also contains important information about the psychologist responsib
 
 * [GIMP](https://www.gimp.org/) - Image Manipulation Program.
 
+* [Font Awesome](https://fontawesome.com/v4.7/icons/) - The icons.
+
 
 
 
