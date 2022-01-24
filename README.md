@@ -39,12 +39,18 @@ The website also contains important information about the psychologist responsib
 * Powered by search engines like Google, it has become the easiest way to get in touch with a therapy specialist, get information about treatment prices and how it works.
 
 * This site is very simple, allowing visitors to discover everything they are looking for about therapy and contracting this service with just a few clicks.
-   
-   
-<h2>Design</h2>
 
 <h3>Site owner goals</h3>
 
+* Explain how cognitive behavioral therapy works
+
+* Show the benefits of therapy
+
+* Tell who can benefit from this type of therapeutic approach
+
+* Attract people interested in therapy
+   
+<h2>Design</h2>
 
 <h3>Colour scheme</h3>
 
