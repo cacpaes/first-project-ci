@@ -5,3 +5,5 @@ The central idea is to show people interested in individual therapy how this app
 
 The website also contains important information about the psychologist responsible for the service, including her training and previous experience.
 </P>
+
+[View website in GitHub Pages](https://cacpaes.github.io/first-project-ci/)
