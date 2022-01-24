@@ -33,7 +33,8 @@ The website also contains important information about the psychologist responsib
 
 <p>The main technologies used on this project is HTML, CSS and GITPOD as IDE.</p>
 
-<p>The fonts were selected from</p> [Google Fonts](https://fonts.google.com/)
+<p>The fonts were selected from</p> 
+   [Google Fonts](https://fonts.google.com/)
 
 
 
