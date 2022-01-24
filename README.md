@@ -18,6 +18,20 @@ The website also contains important information about the psychologist responsib
 
 ![Bal1](https://user-images.githubusercontent.com/93129370/150820379-0974b126-9ac3-47ab-9136-712056c692e8.jpg)
 
+<h2>UX/UI Design</h2>
+
+<h3>Site owner goals</h3>
+
+
+<h3>Colour scheme</h3>
+
+<p>Here is an image of the color palette (Coolors).</p>
+
+![grazi-color](https://user-images.githubusercontent.com/93129370/150827067-e55bf275-ed7d-4d32-8232-cf7e3c2a6617.jpeg)
+
+
+
+
 
 
 
