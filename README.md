@@ -14,7 +14,7 @@ The website also contains important information about the psychologist responsib
 
 <h2>Wireframe</h2>
 
-<p>The wireframe was created using the Balsamiq tool.</p>
+* The wireframe was created using the Balsamiq tool.
 
 ![Bal1](https://user-images.githubusercontent.com/93129370/150820379-0974b126-9ac3-47ab-9136-712056c692e8.jpg)
 
@@ -25,16 +25,17 @@ The website also contains important information about the psychologist responsib
 
 <h3>Colour scheme</h3>
 
-<p>Here is an image of the color palette (Coolors).</p>
+* Here is an image of the color palette (Coolors).
 
 ![grazi-color](https://user-images.githubusercontent.com/93129370/150827067-e55bf275-ed7d-4d32-8232-cf7e3c2a6617.jpeg)
 
 <h2>Technologies Used</h2>
 
-<p>The main technologies used on this project is HTML, CSS and GITPOD as IDE.</p>
+* The main technologies used on this project is HTML, CSS and GITPOD as IDE.
 
-<p>The fonts were selected from</p> 
-   [Google Fonts](https://fonts.google.com/)
+* The fonts were selected from 
+   
+    - [Google Fonts](https://fonts.google.com/)
 
 
 
