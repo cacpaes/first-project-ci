@@ -37,6 +37,8 @@ The website also contains important information about the psychologist responsib
    
     - [Google Fonts](https://fonts.google.com/)
 
+* [GIMP](https://www.gimp.org/) - Image Manipulation Program.
+
 
 
 
