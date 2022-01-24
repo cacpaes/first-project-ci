@@ -18,7 +18,24 @@ The website also contains important information about the psychologist responsib
 
 ![Bal1](https://user-images.githubusercontent.com/93129370/150820379-0974b126-9ac3-47ab-9136-712056c692e8.jpg)
 
-<h2>UX/UI Design</h2>
+<h2>UX</h2>
+
+<h3>Expected traffic to this site:</h3>
+* People interested in topics related to psychology.
+* People interested in therapy, mainly focusing on CBT - Cognitive Behavior Therapy.
+* People looking for online therapy.
+
+<h3>Visitors to this site are looking for:</h3>
+* A contact channel for hiring psychology services.
+* Learn more about CBT - Cognitive Behavior Therapy.
+
+<h3>This project is the best way to help them achieve these things because:</h3>
+* Powered by search engines like Google, it has become the easiest way to get in touch with a therapy specialist, get information about treatment prices and how it works.
+
+* This site is very simple, allowing visitors to discover everything they are looking for about therapy and contracting this service with just a few clicks.
+   
+   
+<h2>Design</h2>
 
 <h3>Site owner goals</h3>
 
