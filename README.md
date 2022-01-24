@@ -16,8 +16,9 @@ The website also contains important information about the psychologist responsib
 
 <p>The wireframe was created using the Balsamiq tool.</p>
 
+![Bal1](https://user-images.githubusercontent.com/93129370/150820379-0974b126-9ac3-47ab-9136-712056c692e8.jpg)
 
-![Balsamiq3](https://user-images.githubusercontent.com/93129370/150817403-5c5ffef2-919d-4ad6-aab3-ebc939b7f277.jpg)
+
 
 
 
