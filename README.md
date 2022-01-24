@@ -21,15 +21,21 @@ The website also contains important information about the psychologist responsib
 <h2>UX</h2>
 
 <h3>Expected traffic to this site:</h3>
+
 * People interested in topics related to psychology.
+
 * People interested in therapy, mainly focusing on CBT - Cognitive Behavior Therapy.
+
 * People looking for online therapy.
 
 <h3>Visitors to this site are looking for:</h3>
+
 * A contact channel for hiring psychology services.
+
 * Learn more about CBT - Cognitive Behavior Therapy.
 
 <h3>This project is the best way to help them achieve these things because:</h3>
+
 * Powered by search engines like Google, it has become the easiest way to get in touch with a therapy specialist, get information about treatment prices and how it works.
 
 * This site is very simple, allowing visitors to discover everything they are looking for about therapy and contracting this service with just a few clicks.
