@@ -29,7 +29,7 @@ The website also contains important information about the psychologist responsib
 
 ![grazi-color](https://user-images.githubusercontent.com/93129370/150827067-e55bf275-ed7d-4d32-8232-cf7e3c2a6617.jpeg)
 
-<h3>Typography</h3>
+<h2>Technologies Used</h2>
 
 <p>The fonts were selected from</p>
 
