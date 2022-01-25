@@ -123,13 +123,18 @@ The website also contains important information about the psychologist responsib
 
 
 <h2>Deployment</h2>
-The deployment process was made based on learnt on User Centric Frontend Development Git classes:
 
-From the repository location Repository, go to settings GitHub Pages section and select the branch "Master" on the source dropdown and click on Save button;
-Then, it will automatically publish the project to GitHub Pages and displays the site URL created;
-It is possible to run the project locally just clicking on the green 'Code' button and selecting either 'clone or download';
-The Clone option provides an URL, which you can use on your desktop IDE;
-The Download ZIP option provides a link to download a ZIP file which can be unzipped on your local machine;
+<p>The deployment process was made based on learnt on User Centric Frontend Development Git classes:</p>
+
+* From the repository location Repository, go to settings GitHub Pages section and select the branch "Master" on the source dropdown and click on Save button;
+
+* Then, it will automatically publish the project to GitHub Pages and displays the site URL created;
+
+* It is possible to run the project locally just clicking on the green 'Code' button and selecting either 'clone or download';
+
+* The Clone option provides an URL, which you can use on your desktop IDE;
+
+* The Download ZIP option provides a link to download a ZIP file which can be unzipped on your local machine;
 
 
 
