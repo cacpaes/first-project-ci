@@ -44,6 +44,8 @@ The website also contains important information about the psychologist responsib
 
 * [Credits](#credits)
 
+  - [Content](#content)
+
   - [Media](#media)
 
 
@@ -181,6 +183,12 @@ The website also contains important information about the psychologist responsib
 <h2>Credits</h2>
 
 * [Code Institute](https://codeinstitute.net/ie/) - I followed the contact form implementantion from 'Love Running' class project.i
+
+<h3>Content</h3>
+
+* All texts were from the Web Page and were written by Graziela Piazera.
+
+* All photos were sent by Graziela Piazera.
 
 <h3>Media</h3>
 
