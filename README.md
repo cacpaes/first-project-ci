@@ -117,7 +117,7 @@ The website also contains important information about the psychologist responsib
 
 * Test links from navigation menu to each section
  
-* Lighthorse  DevTools
+* Lighthouse  DevTools
 
 <h3>Project Issues</h3>
 
