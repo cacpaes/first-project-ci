@@ -106,9 +106,8 @@ The website also contains important information about the psychologist responsib
 <h2>Testing</h2>
 
 Lighthorse
-HTML validation: validator.w3.org
-Warning: Section lacks heading.
-CSS validation: jigsaw.w3.org/css-validator
+[HTML validation](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcacpaes.github.io%2Ffirst-project-ci%2F)
+[CSS validation](jigsaw.w3.org/css-validator)
 
 
 
