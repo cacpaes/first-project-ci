@@ -12,6 +12,10 @@ The website also contains important information about the psychologist responsib
 
 <h2>Content Navegation</h2>
 
+* [Wireframe](#wireframe)
+
+* [UX/UI Design](#uxui-design)
+
 <h2>Wireframe</h2>
 
 * The wireframe was created using the Balsamiq tool.
