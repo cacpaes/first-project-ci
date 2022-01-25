@@ -93,6 +93,8 @@ The website also contains important information about the psychologist responsib
 
 * What is CBT? : The "CBT" section explains what your expertise is on how CBT can help solve problems in people's lives.
 
+* Tell Me: where, visitors can answer the questions to understand if they need help.
+
 * CONTACT: A simple form, with some basic information needed, where that people who are looking for help can get in touch and describe what situation they are going through.
 
 <h3>Resources to be implemented</h3>
