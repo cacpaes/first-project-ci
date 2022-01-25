@@ -32,10 +32,6 @@ The website also contains important information about the psychologist responsib
 
 * A contact channel for hiring psychology services.
 
-<h2>Testing</h2>
-
-
-
 * Learn more about CBT - Cognitive Behavior Therapy.
 
 <h3>This project is the best way to help them achieve these things because:</h3>
