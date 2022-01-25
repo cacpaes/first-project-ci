@@ -16,6 +16,42 @@ The website also contains important information about the psychologist responsib
 
 * [UX/UI Design](#uxui-design)
 
+  - [Expected traffic to this site](#expected-traffic-to-this-site)
+
+  - [Visitors to this site are looking for](#visitors-to-this-site-are-looking-for)
+
+  - [This project is the best way to help them achieve these things because](#this-project-is-the-best-way-to-help-them-achieve-these-things-because)
+
+  - [Site owner goals](#site-owner-goals)
+
+  - [Colour scheme](#colour-scheme)
+
+* [Technologies Used](#technologies-used)
+
+  - [Resources](#resources)
+
+* [Features](#features)
+
+  - [Existing Features](#existing-features)
+
+  - [Resources to be implemented](#resources-to-be-implemented)
+
+* [Testing](#testing)
+
+  - [Project Issues](#project-issues)
+
+* [Deployment](#deployment)
+
+* [Credits](#credits)
+
+  - [Media](#media)
+
+
+
+
+
+
+
 <h2>Wireframe</h2>
 
 * The wireframe was created using the Balsamiq tool.
