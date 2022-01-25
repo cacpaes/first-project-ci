@@ -68,6 +68,8 @@ The website also contains important information about the psychologist responsib
 
 * [Font Awesome](https://fontawesome.com/v4.7/icons/) - The icons.
 
+* [Coolors](https://coolors.co/)- For web page colors
+
 <h3>Resources</h3>
 
 * Code Institute Course Content - Main source of fundamental knowledge.
