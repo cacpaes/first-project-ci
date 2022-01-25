@@ -97,6 +97,12 @@ The website also contains important information about the psychologist responsib
 
 * CONTACT: A simple form, with some basic information needed, where that people who are looking for help can get in touch and describe what situation they are going through.
 
+<h3>Resources to be implemented</h3>
+
+* Testimonials: the "Testimonies" section shows examples of people who were helped by Grazi to find their way in the world.
+
+* Calendar: A section where people can schedule a 30-minute chat with Grazi, so that Grazi can understand the person's problem and the person can understand how Grazi works.
+
 
 
 
