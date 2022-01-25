@@ -107,7 +107,7 @@ The website also contains important information about the psychologist responsib
 
 * [HTML validation](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcacpaes.github.io%2Ffirst-project-ci%2F)
 
-* [CSS validation](jigsaw.w3.org/css-validator)
+* [CSS validation](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcacpaes.github.io%2Ffirst-project-ci%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
  
 * Lighthorse
 
