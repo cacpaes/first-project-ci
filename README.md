@@ -119,7 +119,7 @@ The website also contains important information about the psychologist responsib
 
 <h3>Project Issues</h3>
 
-* Difficult in mobile responsive. I found the solution at Responsive Elements  - [Code Institude](https://learn.codeinstitute.net/ci_program/diplomainsoftwaredevelopmentecommerce);
+* Difficult in mobile responsive. I found the solution at Responsive Elements  - [Code Institude](https://codeinstitute.net/ie/);
 
 
 <h2>Deployment</h2>
@@ -135,6 +135,16 @@ The website also contains important information about the psychologist responsib
 * The Clone option provides an URL, which you can use on your desktop IDE;
 
 * The Download ZIP option provides a link to download a ZIP file which can be unzipped on your local machine;
+
+<h2>Credits</h2>
+<h4>Code Snippets</h4>
+
+* [Code Institute](https://codeinstitute.net/ie/) - I followed the contact form implementantion from 'Love Running' class project.i
+Content
+The tour table on Home section was taken from Trio Template.
+The text for section About was copied from the band's release press kit.
+Media
+All images and logos are band's property represented by myself, developer responsible.
 
 
 
