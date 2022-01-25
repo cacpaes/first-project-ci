@@ -18,7 +18,7 @@ The website also contains important information about the psychologist responsib
 
 ![Bal1](https://user-images.githubusercontent.com/93129370/150820379-0974b126-9ac3-47ab-9136-712056c692e8.jpg)
 
-<h2>UX</h2>
+<h2>UX/UI Design</h2>
 
 <h3>Expected traffic to this site:</h3>
 
@@ -49,8 +49,6 @@ The website also contains important information about the psychologist responsib
 * Tell who can benefit from this type of therapeutic approach
 
 * Attract people interested in therapy
-   
-<h2>Design</h2>
 
 <h3>Colour scheme</h3>
 
