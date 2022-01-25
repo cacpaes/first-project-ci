@@ -48,6 +48,8 @@ The website also contains important information about the psychologist responsib
 
   - [Media](#media)
 
+* [Acknowledgements](#acknowledgements)
+
 
 
 
