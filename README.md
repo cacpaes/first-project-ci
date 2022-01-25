@@ -196,6 +196,10 @@ The website also contains important information about the psychologist responsib
 
 <h2>Acknowledgements</h2>
 
+* Code Institute for all the support.
+
+* My wife Graziela Piazera for all her help.
+
 
 
 
