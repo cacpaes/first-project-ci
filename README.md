@@ -119,7 +119,7 @@ The website also contains important information about the psychologist responsib
 
 <h3>Project Issues</h3>
 
-* Difficult to align the navigation bar. I fould a solution on this source;
+* Difficult in mobile responsive. I found the solution at Responsive Elements  - [Code Institude](https://learn.codeinstitute.net/ci_program/diplomainsoftwaredevelopmentecommerce);
 
 
 
