@@ -70,6 +70,35 @@ The website also contains important information about the psychologist responsib
 
 * [Font Awesome](https://fontawesome.com/v4.7/icons/) - The icons.
 
+<h3>Resources</h3>
+
+* Code Institute Course Content - Main source of fundamental knowledge.
+
+* Balsamiq - Wireframing design tool.
+
+* Youtube - General resource.
+
+
+<h2>Features</h2>
+
+<p>A responsive single page website, navigation bar and social media links. The home page aims to be effective in identifying Grazi as a psychologist, portraying her photo at the top and her name in the upper left corner. To further strengthen the bond with Piscicologa, she talks a little about her story and the love she has for helping people.</p>
+
+<h3>Existing Features</h3>
+
+* HEADER: Grazi Piazera's name in the left corner allows visitors to easily recognize who the site is about.
+
+* FOOTER: Well-known icons direct to the Grazi's social media channels. They are easy enough to find while don't interfere in the experience.
+
+* HOME: A striking image of Grazi welcomes visitors. The mobile version is simplified for a better experience.
+
+* Who I am? : Here, visitors can understand a little of Grazi's history and why she became a psychologist and how she can help people.
+
+* What is CBT? : The "CBT" section explains what your expertise is on how CBT can help solve problems in people's lives.
+
+* CONTACT: A simple form, with some basic information needed, where that people who are looking for help can get in touch and describe what situation they are going through.
+
+
+
 
 
 
