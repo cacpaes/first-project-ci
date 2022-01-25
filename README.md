@@ -137,14 +137,12 @@ The website also contains important information about the psychologist responsib
 * The Download ZIP option provides a link to download a ZIP file which can be unzipped on your local machine;
 
 <h2>Credits</h2>
-<h4>Code Snippets</h4>
 
 * [Code Institute](https://codeinstitute.net/ie/) - I followed the contact form implementantion from 'Love Running' class project.i
-Content
-The tour table on Home section was taken from Trio Template.
-The text for section About was copied from the band's release press kit.
-Media
-All images and logos are band's property represented by myself, developer responsible.
+
+<h3>Media</h3>
+
+* All images are Graziela Piazera's property represented by myself, developer responsible.
 
 
 
