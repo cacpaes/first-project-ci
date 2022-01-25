@@ -194,6 +194,8 @@ The website also contains important information about the psychologist responsib
 
 * All images are Graziela Piazera's property represented by myself, developer responsible.
 
+<h2>Acknowledgements</h2>
+
 
 
 
